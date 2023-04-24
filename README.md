@@ -1,0 +1,2 @@
+# hotelDeluxe
+Örnek Hotel sayfası
